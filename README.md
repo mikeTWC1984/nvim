@@ -1,3 +1,5 @@
+
+```
 call plug#begin('~/.vim/plugged')
 
  Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -266,7 +268,7 @@ au BufEnter * if &buftype == 'terminal' | startinsert | else | stopinsert | endi
 " use <tab> for trigger completion and navigate to the next complete item
 
 " use <tab> for trigger completion and navigate to the next complete item
-
+```
 
 
 
